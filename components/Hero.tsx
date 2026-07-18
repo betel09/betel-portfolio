@@ -48,7 +48,7 @@ export default function Hero() {
           {/* Buttons */}
           <div className="flex gap-4 flex-wrap">
             <a
-              href="/betel-resume.pdf"
+              href="/BETEL YEMANEBIRHAN - Resume.pdf"
               download
               className="bg-[#f5a623] text-[#0d1117] px-7 py-3 rounded-full font-bold hover:bg-[#d4880a] transition-colors"
             >
