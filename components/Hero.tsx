@@ -19,18 +19,18 @@ export default function Hero() {
             Software Engineer
           </h2>
           <p className="text-[#8a9ab5] max-w-lg leading-relaxed mb-8">
-            Motivated Software Engineering student with a strong foundation in full-stack
-            development. Skilled in ASP.NET Core, Angular, React, and database optimization.
+            Motivated Software Engineer with a strong foundation in full-stack
+            development. Skilled in ASP.NET Core, Next.js, React, and database optimization.
             Passionate about delivering efficient, high-quality solutions.
           </p>
 
           {/* Social Icons */}
           <div className="flex gap-4 mb-8">
             {[
-              { icon: <FaGithub size={20} />, href: "https://github.com/", label: "GitHub" },
-              { icon: <FaLinkedin size={20} />, href: "https://linkedin.com/", label: "LinkedIn" },
-              { icon: <FaInstagram size={20} />, href: "https://instagram.com/", label: "Instagram" },
-              { icon: <FaTelegram size={20} />, href: "https://t.me/", label: "Telegram" },
+              { icon: <FaGithub size={20} />, href: "https://github.com/betel09", label: "GitHub" },
+              { icon: <FaLinkedin size={20} />, href: "https://linkedin.com/in/betel-yemanebirhan", label: "LinkedIn" },
+              { icon: <FaInstagram size={20} />, href: "https://instagram.com/betels61", label: "Instagram" },
+              { icon: <FaTelegram size={20} />, href: "https://t.me/@betel28", label: "Telegram" },
             ].map(({ icon, href, label }) => (
               <a
                 key={label}

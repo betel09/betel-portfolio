@@ -8,13 +8,13 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-start">
           <div>
             <p className="text-[#8a9ab5] leading-relaxed mb-4">
-              I&apos;m a Software Engineer Graguated from Debre Berhan University. (graduating 2026),
+              I&apos;m a Software Engineer Graguated from Debre Berhan University.
                I have hands-on internship experience building
               scalable web applications using <strong className="text-[#f0f4f8]">ASP.NET Core</strong> and{" "}
               <strong className="text-[#f0f4f8]">Angular</strong>.
             </p>
             <p className="text-[#8a9ab5] leading-relaxed mb-4">
-              During my internship at <strong className="text-[#f0f4f8]">Custer Computing Plc</strong>, I improved system
+              During my internship at <strong className="text-[#f0f4f8]">Custer Computing Plc</strong>, 
               I got  a knowledge about ASP.NET Core, Angular, React, and database optimization. I&apos;m passionate about delivering efficient, high-quality solutions and continuously learning new technologies to enhance my skills.
             </p>
             <p className="text-[#8a9ab5] leading-relaxed">
