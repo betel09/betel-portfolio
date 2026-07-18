@@ -30,7 +30,7 @@ export default function Hero() {
               { icon: <FaGithub size={20} />, href: "https://github.com/betel09", label: "GitHub" },
               { icon: <FaLinkedin size={20} />, href: "https://linkedin.com/in/betel-yemanebirhan", label: "LinkedIn" },
               { icon: <FaInstagram size={20} />, href: "https://instagram.com/betels61", label: "Instagram" },
-              { icon: <FaTelegram size={20} />, href: "https://t.me/@betel28", label: "Telegram" },
+              { icon: <FaTelegram size={20} />, href: "https://t.me/betel28", label: "Telegram" },
             ].map(({ icon, href, label }) => (
               <a
                 key={label}
